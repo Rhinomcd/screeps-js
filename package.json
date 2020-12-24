@@ -1,0 +1,35 @@
+{
+  "name": "screeps-js",
+  "version": "1.0.0",
+  "description": "R2n impl of screeps",
+  "main": "main.js",
+  "dependencies": {
+    "rollup": "^2.35.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-rollup": "^11.5.0",
+    "grunt-screeps": "^1.5.0",
+    "jshint": "^2.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhinomcd/screeps-js.git"
+  },
+  "keywords": [
+    "screeps",
+    "javascript",
+    "js",
+    "grunt"
+  ],
+  "author": "Ryan McDonough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhinomcd/screeps-js/issues"
+  },
+  "homepage": "https://github.com/Rhinomcd/screeps-js#readme"
+}
